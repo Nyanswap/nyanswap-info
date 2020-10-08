@@ -38,7 +38,7 @@ const DashboardWrapper = styled.div`
 const DropdownWrapper = styled.div`
   position: relative;
   margin-bottom: 1rem;
-  border: 1px solid #edeef2;
+  border: 1px solid #003dff;
   border-radius: 12px;
 `
 
@@ -52,7 +52,7 @@ const Flyout = styled.div`
   border-bottom-right-radius: 10px;
   border-bottom-left-radius: 10px;
   padding-top: 4px;
-  border: 1px solid #edeef2;
+  border: 1px solid #003dff;
   border-top: none;
 `
 
