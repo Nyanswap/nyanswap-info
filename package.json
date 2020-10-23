@@ -1,7 +1,8 @@
 {
   "name": "@uniswap/info",
   "private": true,
-  "homepage": "https://info.uniswap.org",
+  "homepage": "https://info.nyanswap.org",
+  "proxy": "https://api.thegraph.com/",
   "devDependencies": {
     "@popperjs/core": "^2.4.2",
     "@reach/portal": "^0.10.3",
